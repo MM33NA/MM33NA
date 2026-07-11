@@ -1,4 +1,4 @@
-<!-- ============================================================
+<!-- ===========================================================
      Meena Maharjan — GitHub Profile README
      Repository: MM33na/MM33na
      ============================================================ -->
@@ -34,7 +34,6 @@
 </div>
 
 ---
-
 <div align="center">
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:1a3a5c,100:0b0f19&height=80&section=footer" width="100%"/>
