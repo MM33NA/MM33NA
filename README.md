@@ -28,9 +28,9 @@
 ## `// github stats`
 <div align="center">
 <img src="https://github-readme-stats-zeta-seven-26.vercel.app/api?username=MM33na&show_icons=true&count_private=true&theme=github_dark&border_color=1a3a5c&title_color=63b3ed&icon_color=48bb78&text_color=c5d0e0&border_radius=10" width="48%"/>
-<img src="https://github-readme-stats-zeta-seven-26.vercel.app/api/top-langs/?username=MM33na&layout=compact&theme=github_dark&border_color=1a3a5c&title_color=63b3ed&text_color=c5d0e0&border_radius=10" width="45%"/>
+<img src="https://github-readme-stats-zeta-seven-26.vercel.app/api/top-langs/?username=MM33na&layout=compact&theme=github_dark&border_color=1a3a5c&title_color=63b3ed&text_color=c5d0e0&border_radius=10" width="48%"/>
 <br/><br/>
-<img src="https://github-readme-streak-stats-czsb.vercel.app/?user=MM33na&theme=github-dark-blue&border=1a3a5c&ring=63b3ed&fire=ed8936&currStreakLabel=48bb78&sideLabels=8899b0&border_radius=10" width="45%"/>
+<img src="https://github-readme-streak-stats-czsb.vercel.app/?user=MM33na&theme=github-dark-blue&border=1a3a5c&ring=63b3ed&fire=ed8936&currStreakLabel=48bb78&sideLabels=8899b0&border_radius=10" width="65%"/>
 </div>
 
 ---
