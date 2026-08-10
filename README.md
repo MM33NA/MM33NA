@@ -1,19 +1,44 @@
-## Hi there 👋
+<!-- ===========================================================
+     Meena Maharjan — GitHub Profile README
+     Repository: MM33na/MM33na
+     ============================================================-->
+     
+<div align="center"> 
+<!-- Animated header banner via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:1a3a5c,100:0b0f19&height=120&section=header&text=Meena%20Maharjan&fontSize=40&fontColor=63b3ed&fontAlignY=65&animation=fadeIn&desc=Public%20Health%20%C3%97%20Data%20Science%20%C3%97%20Machine%20Learning&descSize=15&descAlignY=85&descColor=8899b0" width="100%"/>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=3000&pause=800&color=48BB78&center=true&vCenter=true&width=600&lines=Turning+data+into+insights+that+matter;Commercial+determinants+%2B+behavioral+research;Python+%7C+Power+BI+%7C+ML+%7C+Dashboards;Always+curious.+Always+learning." alt="Typing SVG" />
+</a>
+<br/>
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/meena-maharjan-aa6b34150/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://scholar.google.com/citations?user=lyUJXogAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=MM33na&label=Profile+Views&color=63b3ed&style=for-the-badge" alt="Profile Views"/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=MM33na)
+---
 
 
 <!--
 **MM33NA/MM33NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `// github stats`
+<div align="center">
+<img src="https://github-readme-stats-zeta-seven-26.vercel.app/api?username=MM33na&show_icons=true&count_private=true&theme=github_dark&border_color=1a3a5c&title_color=63b3ed&icon_color=48bb78&text_color=c5d0e0&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats-zeta-seven-26.vercel.app/api/top-langs/?username=MM33na&layout=compact&theme=github_dark&border_color=1a3a5c&title_color=63b3ed&text_color=c5d0e0&border_radius=10" width="44%"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats-czsb.vercel.app/?user=MM33na&theme=github-dark-blue&border=1a3a5c&ring=63b3ed&fire=ed8936&currStreakLabel=48bb78&sideLabels=8899b0&border_radius=10" width="65%"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div align="center">
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:1a3a5c,100:0b0f19&height=80&section=footer" width="100%"/>
+`/* let's build something meaningful */`
+</div>
