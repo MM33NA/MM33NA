@@ -1,7 +1,7 @@
 <!-- ===========================================================
      Meena Maharjan — GitHub Profile README
      Repository: MM33na/MM33na
-     ============================================================ -->
+     ============================================================-->
      
 <div align="center"> 
 <!-- Animated header banner via capsule-render -->
